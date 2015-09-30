@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀左日鈔
-#+DATE: 2015-09-23 09:40:32
-#+PROPERTY: JUAN 13
+#+DATE: 2015-08-24 22:16:56.103819
+#+PROPERTY: ID KR1e0100
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 補卷上
 <pb:KR1e0100_WYG_013-1a>¶
 欽定四庫全書¶
 　讀左日鈔補卷上¶
@@ -524,4 +526,3 @@
 　¶
 　¶
 　讀左日鈔補卷上¶
-
